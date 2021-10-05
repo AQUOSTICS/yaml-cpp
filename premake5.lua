@@ -10,9 +10,7 @@ project "yaml-cpp"
 		"src/**.h",
 		"src/**.cpp",
 		
-		"include/**.h",
-
-		"premake5.lua"
+		"include/**.h"
 	}
 
 	includedirs
